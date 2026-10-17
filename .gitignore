@@ -1,0 +1,22 @@
+
+//crediental 
+.env
+.remot
+.env.*
+
+
+# Build outputs
+/bin/
+/dist/
+*.exe
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
